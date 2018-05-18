@@ -1,3 +1,6 @@
+/**
+ *
+ */
 public class ANDEquation {
     public int restoreY(int[] A) {
         int len = A.length;
